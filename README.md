@@ -6,7 +6,7 @@ Olá pessoal, me chamo Nicole e estou participando do Bootcamp Santander 2024 de
 ## 🎯 QUAL DESSAS PAISAGENS FOI GERADA POR UMA INTELIGÊNCIA ARTIFICIAL?
 
 ### 📒 Descrição
-A minha ideia para concluir esse laboratorio surgiu quando eu entrei no Leonardo AI e vi uma imagem de uma estrada com um céu super bonito, e ao mesmo tempo em que era realista, logicamente as cores do céu beiravam o surrealismo, mas realmente parecia somente foto editada. Então, quando recebi a proposta desse desafio através do laboratório lá na plataforma da DIO, decidi reaplicar a mesma proposta de gerar um céu realista com um cenário que até remetesse um pouco o Brasil.
+A minha ideia para concluir esse laboratório surgiu quando eu entrei no Leonardo AI e vi uma imagem de uma estrada com um céu super bonito, e ao mesmo tempo em que era realista, logicamente as cores do céu beiravam o surrealismo, mas realmente parecia somente foto editada. Então, quando recebi a proposta desse desafio através do laboratório lá na plataforma da DIO, decidi reaplicar a mesma proposta de gerar um céu realista com um cenário que até remetesse um pouco o Brasil.
 
 ### 🤖 Tecnologias Utilizadas
 - Leonardo AI
